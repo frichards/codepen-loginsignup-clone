@@ -17,6 +17,7 @@ var users = [
 	}
 ];
 
+
 codepen.api.signup = function(user) {
 
 	var response = {
